@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quotes</title>
+</head>
+<body>
+    <h1>Here are a few of my favorite <br>quotes from literature</h1>
+    
+    <ul>
+        <li><em><a href="page1.html">Fyodor Dostoyevsky</a></em></li>
+        <li><em><a href="page2.html">Dumas</a></em></li>
+        <li><em><a href="page3.html">Mary Shelley</a></em></li>
+    </ul>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dostoyevsky</title>
+</head>
+<body>
+    <h1><em>Fyodor Dostoyevsky</em></h1><br>
+    <p><em>To love someone is to see them as God intended them to be.</em></p><br>
+    <p>There is no source material for this quote I don't believe.<br> But I enjoy it because it reminds us to love a person's soul more than anything.</p>
+    
+    <p><a href="WebDesignProject2.html">Home</a></p>
+</body>
+</html> 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Count of Monte Cristo</title>
+</head>
+<body>
+    <h1><em>The Count of Monte Cristo</em></h1>
+
+    <p><em>There is neither happiness nor misery in the world; there is only the comparison of one state with another, nothing more.<br> He who has felt the deepest grief is best able to experience supreme happiness</em></p>
+    
+    <p>I have not yet read The Count of Monte Cristo but it is on my list of books to read. <br>The "classic" literature books interest me because the writing and story telling is thought provoking and philosophical.</p>
+    
+    <p><a href="WebDesignProject2.html">Home</a></p>
+
+</body>
+</html> 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frankenstein</title>
+</head>
+<body>
+    <h1><em>Frankenstein</em></h1>
+    
+    <p><em>Beware; for I am fearless and therefore powerful.</em></p>
+    
+    <p>Another book I have not yet read but is on my list. <br>This one I am excited about the prospects of life and death and right and wrong.<br> I believe this book touches on those subjects.</p>
+    
+    <p><a href="WebDesignProject2.html">Home</a></p>
+</body>
+</html> 
